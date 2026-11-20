@@ -2,11 +2,11 @@
   {
     "id": "aurora",
     "title": "Aurora",
-    "desc": "Описание твоей игры.",
+    "desc": "Описание игры.",
     "version": "1.0",
     "sizeBytes": 1288490188,
     "sizeLabel": "1.2 ГБ",
-    "exe": "ИмяТвоейИгры.exe",
+    "exe": "Имя игры.exe",
     "url": "https://github.com",
     "accent": "#38bdf8",
     "bg": "https://githubusercontent.com",
