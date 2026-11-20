@@ -2,14 +2,14 @@
   {
     "id": "aurora",
     "title": "Aurora",
-    "desc": "Описание игры.",
+    "desc": "Тестовый билд для проверки загрузки.",
     "version": "1.0",
-    "sizeBytes": 1288490188,
-    "sizeLabel": "1.2 ГБ",
-    "exe": "Имя игры.exe",
+    "sizeBytes": 52428800,
+    "sizeLabel": "50 МБ",
+    "exe": "Aurora.exe",
     "url": "https://github.com",
     "accent": "#38bdf8",
-    "bg": "https://githubusercontent.com",
+    "bg": "radial-gradient(circle at 70% 25%, #164e63 0%, #090c12 75%)",
     "inDev": false
   }
 ]
