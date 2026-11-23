@@ -9,7 +9,7 @@
     "exe": "Aurora.exe",
     "url": "https://github.com/Fuyukie/arctici-hub-config/releases/download/v0.1-test/Update.zip",
     "accent": "#38bdf8",
-    "bg": "radial-gradient(circle at 70% 25%, #164e63 0%, #090c12 75%)",
+    "bg": "test-bg.png",
     "inDev": false
   }
 ]
